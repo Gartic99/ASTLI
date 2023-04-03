@@ -21,8 +21,8 @@ A **pollution sensor** will detect the current salubrity of the air; a **microph
 ### Local Area Station
 Each esp32 collects the data form the releated semaphore of the cross: it elaborates the data and sends the request to turn green its semaphore to the central esp32 using WiFi connection, then the server esp32 will decide to authorize or not the green request; it will also send to the outside networks the environmental data using LoRa protocol. 
 
-### Web Dashboard
-It is composed by the esp32 server: it displays the current status of the semaphore and allows to tweak the parameters of the algorithm that controls it; it displays also the local environment data.
+### Dashboard
+The esp32's LCD displays shows the current stats and other informations.
 
 ## Sensors
 
