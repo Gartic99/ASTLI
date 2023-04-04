@@ -16,6 +16,6 @@
 
 ### Video Links:
 
-* [product/idea](https://www.youtube.com/watch?v=fo1OHD9pCB4) 
+* [product/idea](https://youtu.be/2mjUb1Sb_hY) 
 * [technical approach, the architecture and main technologies](TO_FILL)
 * [performance evaluation plan](TO_FILLc)
