@@ -29,6 +29,9 @@ The esp32's LCD displays shows the current stats and other informations.
 ### Camera with ESP32
 <img src="https://github.com/Gartic99/ASTLI/blob/main/img/camera_esp32.jpg" width="400">
 
+### ESP32 with LoRa
+<img src="https://github.com/Gartic99/ASTLI/blob/main/img/esp32lora.jpg" width="400">
+
 ### Air Quality Sensor
 <img src="https://github.com/Gartic99/ASTLI/blob/main/img/air_sensor.jpg" width="400">
 
