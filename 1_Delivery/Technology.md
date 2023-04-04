@@ -7,10 +7,10 @@
 - Web Dashboard
 
 ### Semaphore behaviour
-Each smart camera will analyze the current traffic situation and will decide if there is the need to ask to turn green its semaphore, in that case a request message will be delivered to a server esp32 and when the proper decision will be taken the answer will be delivered to the requesting semaphore.
+Each smart camera will analyze the current traffic situation, with the help of the inductive sensors, and will decide if there is the need to ask to turn green its semaphore, in that case a request message will be delivered to a server esp32 and when the proper decision will be taken the answer will be delivered to the requesting semaphore.
 
-### Pressure sensors
-Pressure sensors will be placed close to each semaphore, on the road end, and other two sensors with increasing distance: their purpose is to improve camera detection algorithm during night and adverse conditions and detect vehicles queue status.
+### Inductive sensors
+Inductive sensors will be placed close to each semaphore, on the road end, and other two sensors with increasing distance: their purpose is to improve camera detection algorithm during night and adverse conditions and detect vehicles queue status.
 
 ### Smart Camera
 It is the main component of our project: its main purpose is to detect the presence of a traffic jam and adjust the traffic lights to reduce it; they work together with  pressure sensors.
@@ -51,5 +51,6 @@ The esp32's LCD displays shows the current stats and other informations.
 
 ## Communication
 - **esp32s** 
-- WiFi: each esp32 will send/receive informations to/from other traffic lights devices.
-- LoRa: the server esp32 will devliver data to the Internet using this protocol
+- WiFi: each esp32-cam will send/receive informations to/from the central esp32-lora.
+- LoRa: the central esp32 will devliver data to a remote Gateway ESP-32
+ using this protocol
