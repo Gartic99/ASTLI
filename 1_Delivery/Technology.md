@@ -42,9 +42,9 @@ The esp32's LCD displays shows the current stats and other informations.
 
 <img src="https://github.com/Gartic99/ASTLI/blob/main/img/current-sensor.jpg"  width="400">
 
-## Pressure sensor
+## Inductive sensor
 
-<img src="https://github.com/Gartic99/ASTLI/blob/main/img/pressure.jpg" width="400">
+<img src="https://github.com/Gartic99/ASTLI/blob/main/img/inductiveloopsensor.jpg" width="400">
 
 ## Actuators
 
