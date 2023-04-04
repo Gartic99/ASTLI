@@ -44,7 +44,7 @@ The esp32's LCD displays shows the current stats and other informations.
 
 ## Inductive sensor
 
-<img src="https://github.com/Gartic99/ASTLI/blob/main/img/inductiveloopsensor.jpg" width="400">
+<img src="https://github.com/Gartic99/ASTLI/blob/main/img/inductiveloopsensor.png" width="400">
 
 ## Actuators
 
