@@ -18,4 +18,4 @@
 
 * [product/idea](https://youtu.be/2mjUb1Sb_hY) 
 * [technical approach, the architecture and main technologies](https://youtu.be/8Cnb5RccPTQ)
-* [performance evaluation plan](TO_FILLc)
+* [performance evaluation plan](https://youtu.be/ZJbpjf7iAaA)
